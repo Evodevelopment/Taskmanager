@@ -40,4 +40,3 @@
     - If you finish the basic project quickly and want to expand it, you can consider adding features like task priorities, due dates, or categories.
     - You can also build a simple web interface for your task tracker using a Python web framework like Flask or Django for a more full-stack experience.
 
-Throughout this project, you'll gain experience with Python, SQL, GitHub, and VSCode. Plus, you'll have a functional task tracker application to use and show in your portfolio. Remember that programming is all about practice, so don't be discouraged if you encounter challenges along the way. Troubleshooting and problem-solving are valuable skills in software development. Good luck with your project!
