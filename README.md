@@ -1,6 +1,3 @@
-# Taskmanager
-
-Certainly! Building a project is a great way to learn programming, especially if you want to become a Python developer or a full-stack developer. Here's a project idea that you can complete within a couple of hours and covers Python, SQL, GitHub, and VSCode:
 
 **Project Idea: Task Tracker**
 
